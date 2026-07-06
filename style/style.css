@@ -9,7 +9,95 @@
 }
 
 body, html {
-    background-color: black;
+    background-color: #161616;
     height: 100vh;
     width: 100vw;
 }
+
+main {
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+}
+
+section#panel {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    background-color: #1b1b1b;
+    width: 400px;
+    height: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+figure.conteiner-image {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+    margin: 20px 0px 30px 0px;
+}
+
+div#conteiner {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    text-align: center;
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+
+p#name {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+p#country {
+    color: #D2F154;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 25px;
+}
+
+ul {
+    list-style: none;
+    margin: auto;
+}
+
+li {
+    background-color: #303030;
+    width: 320px;
+    height: 50px;
+    padding: 0px;
+    margin: 10px 0px 15px 0px;
+    border-radius: 10px;
+    overflow: hidden;
+
+}
+
+li a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    text-decoration: none;
+    color: white;
+}
+
+li a:hover {
+    background-color: #D2F154;
+    color: black;
+    cursor: pointer;
+}
+
+
+
