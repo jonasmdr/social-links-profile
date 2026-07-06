@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://jonasmdr.github.io/Projeto-Cart-o-de-blog/]
+- Live Site URL: [https://jonasmdr.github.io/social-links-profile/]
 
 ## My process
 
@@ -45,7 +45,7 @@ I’m going to continue studying box model manipulation and mobile-first design,
 
 Describe how you used AI tools (if any) during this project. This helps demonstrate your ability to work effectively with AI assistants.
 
-- WI used Gemini.
+- I used Gemini.
 - I used it to help me work a bit in Figma—since I’d never used it before—and to understand how box positioning works, which was the hardest part for me.
 
 ## Author
